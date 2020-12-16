@@ -1,0 +1,17 @@
+{
+  "name": "near",
+  "version": "1.0.0",
+  "description": "Create your first NEAR account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ubinix-warun",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "js-sha256": "^0.9.0",
+    "near-api-js": "^0.35.0"
+  }
+}

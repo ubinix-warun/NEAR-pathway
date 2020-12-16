@@ -1,5 +1,7 @@
 # 2. Create your first NEAR account with the NEAR SDK
 
+Prerequisites
+1. Connect to a NEAR node with DataHub
 
 ```
 nvm use v12.18.3
