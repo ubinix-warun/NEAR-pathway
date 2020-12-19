@@ -19,6 +19,8 @@ node transfer_advanced.js
 
 ```
 
+## Execute 'transfer.js'
+
 ```
 node transfer.js
 Sending money to pizza.testnet

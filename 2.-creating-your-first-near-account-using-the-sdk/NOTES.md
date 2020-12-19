@@ -16,6 +16,8 @@ node create_account.js
 
 ```
 
+## Create Account!
+
 ```
 node create_account.js 
 Generating a new key pair

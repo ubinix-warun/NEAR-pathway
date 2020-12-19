@@ -17,6 +17,8 @@ node query.js
 
 ```
 
+## Execute 'query.js'
+
 ```
 node query.js
 network status: {
