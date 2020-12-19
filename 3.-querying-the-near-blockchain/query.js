@@ -31,8 +31,8 @@ async function main() {
   block = await provider.block({ blockId: status.sync_info.latest_block_height });
   console.log("block by height:", block);
   // 4) get current validators
-  // const validators = await provider.validators(block.header.height);
-  // console.log("network validators:", validators);
+  const validators = await provider.validators(block.header.height);
+  console.log("network validators:", validators);
   // 5) get account details
   const account = await client.account(options.accountId);
   console.log("account state:", await account.state());
