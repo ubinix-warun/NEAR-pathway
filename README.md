@@ -10,8 +10,8 @@ Learn NEAR pathway from https://learn.figment.io/network-documentation/near/near
 ## Extra NEAR Pathway Challenges
 
 ### Twitter
-* [ ] Post a lesson learned about the NEAR platform, tools, community, etc.
-* [ ] Post a screenshot of what you just built with NEAR
+* [x] Post a lesson learned about the NEAR platform, tools, community, etc.
+* [x] Post a screenshot of what you just built with NEAR
 * [x] Share a public link to a repository with your code
 * [ ] Start a debate about the pros / cons of NEAR
 * [ ] Launch a meme war with NEAR prominently featured
