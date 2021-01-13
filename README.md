@@ -27,5 +27,5 @@ Learn NEAR pathway from https://learn.figment.io/network-documentation/near/near
 * [ ] Build a demo of an interesting feature of NEAR (ie. cross-contract calls)
 * [ ] Integrate NEAR with a popular framework (ie. Express middleware)
 * [ ] Adapt a popular, existing system to use NEAR (ie. a simple JS game)
-* [ ] Extend an existing NEAR sample into something better (see near.dev)
+* [x] Extend an existing NEAR sample into something better (see near.dev)
 * [ ] Contribute to the NEAR codebase (see github.com/near)
