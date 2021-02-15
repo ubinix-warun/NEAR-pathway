@@ -24,7 +24,7 @@ Learn NEAR pathway from https://learn.figment.io/network-documentation/near/near
 * [ ] Compare NEAR with another technology, blockchain or otherwise
 
 ### Github
-* [ ] Build a demo of an interesting feature of NEAR (ie. cross-contract calls)
+* [x] Build a demo of an interesting feature of NEAR (ie. cross-contract calls)
 * [ ] Integrate NEAR with a popular framework (ie. Express middleware)
 * [ ] Adapt a popular, existing system to use NEAR (ie. a simple JS game)
 * [x] Extend an existing NEAR sample into something better (see near.dev)
